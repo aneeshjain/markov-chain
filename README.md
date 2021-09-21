@@ -1,5 +1,5 @@
 # markov-chain
-Implementation of a markov chain in python from scratch
+Implementation of a markov chain in python.
 
 The given code implements a markov chain consisting of three states "Hot", "Cold", "Tepid" with the following transition table.
 
